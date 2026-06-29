@@ -7,7 +7,7 @@ This project was created to practice game development and improve coding skills.
 
 Add your YouTube video link here:
 
-▶️ [Watch the development of this game]()
+▶️ [Watch the development of this game](https://www.youtube.com/watch?v=7pT_rdw4mIg)
 
 ## ✨ Features
 
@@ -23,7 +23,5 @@ Add your YouTube video link here:
 - HTML
 - CSS
 - JavaScript
-
-*(Change these according to your project)*
 
 ## Make the chrome size small to play it neatly
